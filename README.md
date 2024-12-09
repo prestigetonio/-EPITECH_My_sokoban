@@ -8,10 +8,16 @@ Recréer le jeu Sokoban avec la possibilité de déplacer le joueur et de pousse
 Comme le savent les personnes à Epitech, le projet est corrigé par la moulinette, voici les résultats : <br>
 Prérequis remplis : 
 <br><br>
-- Global : ?% <br>
-- Parsing : ?% <br>
-- Gestion des mouvements : ?% <br>
-- Gestion des collisions : ?% <br>
+- Usage and input checks : 25% <br>
+- Basic moves : 100% <br>
+- Basic collisions and box on targets : 50% <br>
+- Intermediate moves and collisions : 50% <br>
+- Intermediate maps tests : 0% <br>
+- Intermediate winning and losing conditions : 0% <br>
+- Final moves and collisions : 33.3% <br>
+- Final maps tests : 25% <br>
+- Final winning and losing conditions : 0% <br>
+- ✔️ TOTAL : 36.1% <br>
 <br>
 
 >[!IMPORTANT]
